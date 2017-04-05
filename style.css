@@ -43,3 +43,7 @@ body,html {
   letter-spacing: .1rem;
   color: #ffc600;
 }
+
+a {
+  text-decoration:none;
+}
