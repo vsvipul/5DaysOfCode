@@ -1,7 +1,7 @@
 html {
-  background:#018DED ;
+  background:#018DED url("background.jpg");
   background-size:cover;
-  font-family:'helvetica neue';
+  font-family:'Didact Gothic', sans-serif;
   text-align: center;
   font-size: 10px;
 }
