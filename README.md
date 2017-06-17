@@ -1,1 +1,2 @@
-# 30DaysOfCode
+# 5DaysOfCode
+5 beginner-friendly projects made using javascript, that can be completed in a week (excluding weekends) :P ...
