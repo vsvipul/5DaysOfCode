@@ -1,4 +1,4 @@
-var countdowndate= new Date("July 26, 2017 01:00:00").getTime();
+var countdowndate= new Date("December 11, 2017 01:00:00").getTime();
 var x= setInterval(function() {
 	var now= new Date().getTime();
 	var dist= countdowndate - now;
