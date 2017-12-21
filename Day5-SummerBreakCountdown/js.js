@@ -10,6 +10,6 @@ var x= setInterval(function() {
 	if (dist<0)
 	{
 		clearInterval(x);
-		document.getElementById("down").innerHTML="Woohoo, Summer Holidays !!";
+		document.getElementById("down").innerHTML="Woohoo, Winter Holidays !!";
 	}
 },1000);
